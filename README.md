@@ -2,7 +2,7 @@
 
 ## Project Source
 
-This repository contains project#1 related to Udacity's [Deep Learning Nanodegree program](). 
+This repository contains project#3 related to Udacity's [Deep Learning Nanodegree program](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation). 
 
 ## Project Overview
 
